@@ -3,5 +3,6 @@ sqlalchemy[asyncio]==2.0.36
 asyncpg==0.29.0
 alembic==1.18.3
 redis[asyncio]==6.3.0
-pydantic-settings==2.7.0
+pydantic==2.5.3
+pydantic-settings==2.4.0
 python-dotenv==1.0.1
