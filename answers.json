@@ -1,0 +1,215 @@
+{
+  "total": 30,
+  "answers": [
+    {
+      "q": 1,
+      "type": "Number Series",
+      "difficulty": "Easy",
+      "options": 5,
+      "answer": "B"
+    },
+    {
+      "q": 2,
+      "type": "Odd One Out",
+      "difficulty": "Easy",
+      "options": 5,
+      "answer": "C"
+    },
+    {
+      "q": 3,
+      "type": "Series",
+      "difficulty": "Easy",
+      "options": 4,
+      "answer": "B"
+    },
+    {
+      "q": 4,
+      "type": "Matrix",
+      "difficulty": "Easy",
+      "options": 6,
+      "answer": "C"
+    },
+    {
+      "q": 5,
+      "type": "Analogy",
+      "difficulty": "Easy",
+      "options": 4,
+      "answer": "A"
+    },
+    {
+      "q": 6,
+      "type": "Number Series",
+      "difficulty": "Easy",
+      "options": 5,
+      "answer": "C"
+    },
+    {
+      "q": 7,
+      "type": "Matrix",
+      "difficulty": "Medium",
+      "options": 6,
+      "answer": "C"
+    },
+    {
+      "q": 8,
+      "type": "Rotation",
+      "difficulty": "Medium",
+      "options": 4,
+      "answer": "B"
+    },
+    {
+      "q": 9,
+      "type": "Odd One Out",
+      "difficulty": "Medium",
+      "options": 5,
+      "answer": "C"
+    },
+    {
+      "q": 10,
+      "type": "Series",
+      "difficulty": "Medium",
+      "options": 4,
+      "answer": "C"
+    },
+    {
+      "q": 11,
+      "type": "Analogy",
+      "difficulty": "Medium",
+      "options": 4,
+      "answer": "B"
+    },
+    {
+      "q": 12,
+      "type": "Number Series",
+      "difficulty": "Medium",
+      "options": 5,
+      "answer": "D"
+    },
+    {
+      "q": 13,
+      "type": "Matrix",
+      "difficulty": "Medium",
+      "options": 6,
+      "answer": "D"
+    },
+    {
+      "q": 14,
+      "type": "Series",
+      "difficulty": "Medium",
+      "options": 4,
+      "answer": "C"
+    },
+    {
+      "q": 15,
+      "type": "Odd One Out",
+      "difficulty": "Medium",
+      "options": 5,
+      "answer": "D"
+    },
+    {
+      "q": 16,
+      "type": "Analogy",
+      "difficulty": "Medium",
+      "options": 4,
+      "answer": "D"
+    },
+    {
+      "q": 17,
+      "type": "Number Series",
+      "difficulty": "Medium",
+      "options": 5,
+      "answer": "C"
+    },
+    {
+      "q": 18,
+      "type": "Matrix",
+      "difficulty": "Medium",
+      "options": 6,
+      "answer": "C"
+    },
+    {
+      "q": 19,
+      "type": "Number Series",
+      "difficulty": "Hard",
+      "options": 5,
+      "answer": "C"
+    },
+    {
+      "q": 20,
+      "type": "Matrix",
+      "difficulty": "Hard",
+      "options": 6,
+      "answer": "C"
+    },
+    {
+      "q": 21,
+      "type": "Rotation",
+      "difficulty": "Hard",
+      "options": 4,
+      "answer": "C"
+    },
+    {
+      "q": 22,
+      "type": "Odd One Out",
+      "difficulty": "Hard",
+      "options": 5,
+      "answer": "D"
+    },
+    {
+      "q": 23,
+      "type": "Analogy",
+      "difficulty": "Hard",
+      "options": 4,
+      "answer": "C"
+    },
+    {
+      "q": 24,
+      "type": "Number Series",
+      "difficulty": "Hard",
+      "options": 5,
+      "answer": "C"
+    },
+    {
+      "q": 25,
+      "type": "Series",
+      "difficulty": "Hard",
+      "options": 4,
+      "answer": "C"
+    },
+    {
+      "q": 26,
+      "type": "Matrix",
+      "difficulty": "Hard",
+      "options": 6,
+      "answer": "B"
+    },
+    {
+      "q": 27,
+      "type": "Number Series",
+      "difficulty": "Hard",
+      "options": 5,
+      "answer": "D"
+    },
+    {
+      "q": 28,
+      "type": "Analogy",
+      "difficulty": "Hard",
+      "options": 4,
+      "answer": "C"
+    },
+    {
+      "q": 29,
+      "type": "Rotation",
+      "difficulty": "Hard",
+      "options": 4,
+      "answer": "D"
+    },
+    {
+      "q": 30,
+      "type": "Matrix",
+      "difficulty": "Hard",
+      "options": 6,
+      "answer": "C"
+    }
+  ]
+}
