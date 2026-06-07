@@ -4,5 +4,5 @@ asyncpg==0.29.0
 alembic==1.18.3
 redis[asyncio]==6.3.0
 pydantic==2.5.3
-pydantic-settings==2.4.0
+pydantic-settings==2.2.1
 python-dotenv==1.0.1
